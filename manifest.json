@@ -6,7 +6,7 @@
         "default_popup": "index.html",
         "default_icon": "icon.png"
     },
-    "permissions": [
-        "tabs"
-    ]
+    "permissions": [     //It is for access the Chrome system, need the permission. 
+        "tabs"          //What you need to access from the chrome system in this case "tabs".
+    ]                  //Can access the number of things from the system of chrome. 
 }
